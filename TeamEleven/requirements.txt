@@ -1,0 +1,10 @@
+numpy
+pandas
+torch
+sklearn
+seaborn
+matplotlib
+pyif
+nose
+tables
+numba
